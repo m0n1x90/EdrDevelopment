@@ -1,5 +1,5 @@
 
-# VettaiyanEdr
+# Vettaiyan EDR
 
 A hobby project that mimics the real life use cases of a EDR Driver and EDR DLL. Each phase consits of development stage of each components being integrated within the EDR. 
 
