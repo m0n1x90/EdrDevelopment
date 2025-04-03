@@ -1,6 +1,12 @@
 
 # Phase 1 - Monitor usage of Image, Process, Thread
 
+## Planning
+
+![Plan](plan/phase1.png)
+
+## Notes
+
 A initial base layout for EDR driver which monitors the process and thread creation in the operating system. This can be attained easily by creating and using callbacks in kernel-mode.
 
 The below mentioned routines are used to monitor the above said activity
